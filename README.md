@@ -18,16 +18,11 @@ Statische Website für GitHub Pages im Farbstil „Pixel-Flügel in Minze“
 
 - [ ] `kontakt@deine-domain.de` durch deine echte E-Mail ersetzen (index, impressum, datenschutz)
 - [ ] Anschrift `[Straße Hausnummer]`, `[PLZ Ort]` in Impressum und Datenschutz eintragen
-- [ ] Ruby-Bilder durch echte Screenshots ersetzen (siehe unten)
 
-## Ruby-Bilder austauschen
+## Ruby-Bilder
 
-Die drei Dateien in `assets/img/` (`ruby-kalender.svg`, `ruby-musik.svg`,
-`ruby-erinnerung.svg`) sind gezeichnete Beispielansichten. Für echte Screenshots:
-
-1. Screenshots am Handy machen (Hochformat).
-2. Als `ruby-kalender.png`, `ruby-musik.png`, `ruby-erinnerung.png` in `assets/img/` legen.
-3. In `index.html` und `projekte.html` die Endung `.svg` bei diesen drei Bildern auf `.png` ändern.
+Die Screenshots liegen in `assets/img/` (`ruby-gruppen.jpg`, `ruby-kalender.jpg`,
+`ruby-treffen.jpg`). Für neue Screenshots einfach eine Datei mit gleichem Namen ersetzen.
 
 ## Auf GitHub Pages veröffentlichen
 
