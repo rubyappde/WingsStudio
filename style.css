@@ -234,3 +234,6 @@ a:hover { color: var(--graphit); }
   .feature-phones .phone:nth-child(2) { margin-top: 0; }
   .site-footer a { margin: 0 16px 0 0; }
 }
+
+/* Nur-Text-Varianten ohne App-Bilder */
+.feature-text, .project-text { grid-template-columns: minmax(0, 1fr); max-width: 760px; }
